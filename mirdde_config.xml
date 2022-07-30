@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:sparkle="https://github.com/HailongDing/mirdde_release/mirdde_config.xml">
+<rss version="2.0" xmlns:sparkle="https://github.com/HailongDing/mirdde_release/blob/main/mirdde_config.xml">
     <channel>
         <title>WinSparkle Test Appcast</title>
         <description>Most recent updates to WinSparkle Test</description>
@@ -10,7 +10,7 @@
                 https://your_domain/your_path/release_notes.html
             </sparkle:releaseNotesLink>
             <pubDate>Fri, 06 Feb 2016 22:49:00 +0100</pubDate>
-            <enclosure url="https://github.com/HailongDing/mirdde_release/nasm-2.12.02-installer-x64.exe"
+            <enclosure url="https://github.com/HailongDing/mirdde_release/blob/main/nasm-2.12.02-installer-x64.exe"
                        sparkle:version="1.5.5880"
                        length="0"
                        type="application/octet-stream" />
