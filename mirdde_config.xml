@@ -3,7 +3,7 @@
     <channel>
         <title>WinSparkle Test Appcast</title>
         <description>Most recent updates to WinSparkle Test</description>
-        <language>en</language>
+        <language>zh_CN</language>
         <item>
             <title>Version 1.5.5880</title>
             <sparkle:releaseNotesLink>
