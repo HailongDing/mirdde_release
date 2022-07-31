@@ -7,10 +7,11 @@
         <item>
             <title>Version 1.5.5880</title>
             <sparkle:releaseNotesLink>
-                https://your_domain/your_path/release_notes.html
+                https://github.com/HailongDing/mirdde_release/blob/main/version.html
             </sparkle:releaseNotesLink>
             <pubDate>Fri, 06 Feb 2016 22:49:00 +0100</pubDate>
             <enclosure url="https://github.com/HailongDing/mirdde_release/blob/main/nasm-2.12.02-installer-x64.exe"
+                       sparkle:dsaSignature="MEQCIEopcE18EPL7fAQp40iKoqhEQb84dbOOB7U8qaN0cu6lAiASBZ3tYvrw73zjrVhx0UJINW3nqJmeLMlvV99txlsFhA=="
                        sparkle:version="1.5.5880"
                        length="0"
                        type="application/octet-stream" />
